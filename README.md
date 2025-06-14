@@ -1,13 +1,50 @@
 # 📈 Stock Price Prediction Using Machine Learning
-This project explores various machine learning models to predict future stock prices based on historical market data. The goal is to analyze and compare multiple supervised learning algorithms and deep learning models to determine which performs best for time series forecasting in financial markets.
 
-## 🔧 Features
-- Fetches historical stock data using Yahoo Finance API
-- Performs data preprocessing and feature engineering
-- Implements multiple ML models:
-- Linear Regression
-- Random Forest Regressor
-- Support Vector Regressor (SVR)
-- LSTM Neural Network (Deep Learning)
-- Visualizes predictions vs actual prices
-- Evaluates models using RMSE and MAPE metrics
+This project is a hands-on exploration of various Machine Learning and Deep Learning models to predict stock prices using historical data. It compares the performance of different algorithms to identify the most effective approach for time-series forecasting in financial markets.
+
+---
+
+## 🚀 Objectives
+
+* Collect historical stock data using Yahoo Finance API
+* Preprocess and engineer meaningful features
+* Implement multiple prediction models
+* Evaluate and compare model performance
+* Visualize predicted vs actual prices
+
+---
+
+## 🛠️ Technologies Used
+
+* Python (Pandas, NumPy, Scikit-learn)
+* Keras / TensorFlow (for LSTM)
+* Yahoo Finance (yfinance API)
+* Matplotlib & Seaborn for visualization
+
+---
+
+## 📊 Models Implemented
+
+* Linear Regression
+* Random Forest Regressor
+* Support Vector Regression (SVR)
+* LSTM (Long Short-Term Memory)
+
+---
+
+## 📈 Sample Output
+
+* Actual vs Predicted Price Line Graphs
+* RMSE and MAPE for each model
+* Comparative analysis of performance
+
+---
+
+## 👤 Author
+
+**Nisarg Patel**
+📬 [LinkedIn](https://www.linkedin.com/in/nisarg-patel-a5784124b/)
+🌐 [GitHub](https://github.com/Nisarg1605)
+
+
+

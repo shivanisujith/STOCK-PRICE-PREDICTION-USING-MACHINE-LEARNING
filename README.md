@@ -42,9 +42,9 @@ This project is a hands-on exploration of various Machine Learning and Deep Lear
 
 ## 👤 Author
 
-**Nisarg Patel**
-📬 [LinkedIn](https://www.linkedin.com/in/nisarg-patel-a5784124b/)
-🌐 [GitHub](https://github.com/Nisarg1605)
+**Shivani Sujith**
+📬 [LinkedIn](www.linkedin.com/in/shivani-sujith-34732a214)
+🌐 [GitHub]((https://github.com/shivanisujith))
 
 
 

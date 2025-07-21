@@ -43,7 +43,7 @@ This project is a hands-on exploration of various Machine Learning and Deep Lear
 ## 👤 Author
 
 **Shivani Sujith**
-📬 [LinkedIn](www.linkedin.com/in/shivani-sujith-34732a214)
+📬 [LinkedIn](https://www.linkedin.com/in/shivani-sujith-34732a214/)
 🌐 [GitHub](https://github.com/shivanisujith)
 
 
